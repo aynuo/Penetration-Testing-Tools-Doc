@@ -1,11 +1,11 @@
-#Installation
-##Prerequisites
+# Installation
+## Prerequisites
 
 Before installing Gobuster, ensure that you have Go installed on your system.
 
  You can download and install Go from the [official Go website](https://golang.org).
 
-##Installation Steps
+## Installation Steps
 1: Clone the Gobuster repository to your local machine using Git:
 
 `git clone https://github.com/OJ/gobuster.git`
