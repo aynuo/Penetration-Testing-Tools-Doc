@@ -9,3 +9,5 @@ Gobuster is a powerful and versatile command-line tool designed for directory an
 * Customizable: Users can specify various options such as wordlists, extensions, status codes, and concurrency levels to tailor the scan according to their requirements.
 * Extensible: Gobuster supports plugins, allowing users to extend its functionality for specific use cases or environments.
 * Support for Multiple Protocols: While primarily designed for HTTP(S), Gobuster also supports other protocols such as FTP and DNS
+
+[official GitHub repository](https://github.com/OJ/gobuster/releases)
