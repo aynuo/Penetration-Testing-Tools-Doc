@@ -23,3 +23,11 @@ Before installing Gobuster, ensure that you have Go installed on your system.
 5. Optionally, you can move the Gobuster executable to a directory in your system PATH to make it accessible from anywhere:
 
 `sudo mv gobuster /usr/local/bin/`
+
+## install with Docker
+
+`docker pull ghcr.io/oj/gobuster:latest`
+
+## install using `go install` 
+
+`go install github.com/OJ/gobuster/v3@latest`
