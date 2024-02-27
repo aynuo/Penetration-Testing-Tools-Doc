@@ -15,6 +15,14 @@
 
 `gobuster dir -u https://example.com -w /usr/example.txt -x png`
 
+## -t, --threads
+* allows you to set the number of concurrent threads to be used in the brute-force scan. Increasing the number of threads can speed up the scan but may also increase server load and network traffic.
+* Default Threat is 10 
+
+`gobuster dir -u https://example.com -w /usr/example.txt -t 100`
+
+
+
 
 
 
