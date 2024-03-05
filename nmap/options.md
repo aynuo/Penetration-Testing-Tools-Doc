@@ -1,7 +1,4 @@
 # Nmap Cheat Sheet
-
-Nmap ("Network Mapper") is a free and open-source network scanner used to discover hosts and services on a computer network. It's one of the essential tools in the field of cybersecurity.
-
 ## Basic Usage
 
 1. **Scan a Single Host:** `nmap <target>`
