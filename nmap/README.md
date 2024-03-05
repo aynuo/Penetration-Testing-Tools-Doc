@@ -1,10 +1,8 @@
 # NMAP
 ## NMAP Overview
 NMAP is a free and open-source network scanner used to discover hosts and services on a computer network. It operates by sending packets and analyzing the responses.
-
 ## Features
 NMAP provides a wide range of features, including host discovery, port scanning, version detection, OS detection, and scripting for advanced tasks.
-
 ## Host Discovery
 NMAP can determine which hosts are available on the network, using various techniques such as ICMP echo requests, TCP SYN scans, and ARP requests.
 ## Port Scanning
