@@ -77,24 +77,5 @@ Binwalk provides various options and customization features to tailor the analys
 - [Binwalk Documentation](https://github.com/ReFirmLabs/binwalk/wiki)
 - [Binwalk Wiki](https://github.com/ReFirmLabs/binwalk/wiki)
 
-### Contributing
 
-If you encounter any issues or have suggestions for improvement, feel free to open an issue or submit a pull request on the Binwalk GitHub repository.
-
-### License
-
-Binwalk is released under the MIT License. See the LICENSE file for details.
-
-### Acknowledgments
-
-Binwalk is maintained by ReFirm Labs and contributions from the open-source community. Special thanks to all contributors for their valuable input and support.
-
-### Disclaimer
-
-This software is provided "as is" and without warranty of any kind. Use it at your own risk.
-
-### Contact
-
-For questions, feedback, or support, you can reach out to the Binwalk development team at [email@example.com](mailto:email@example.com).
-
-### Happy Binwalking! 🕵️‍♂️🔍
+### Happy Binwalking!
