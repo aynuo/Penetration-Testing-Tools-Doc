@@ -40,4 +40,4 @@ SQLMap provides a wide range of options and features for detecting and exploitin
    python sqlmap.py -u <URL> -D <database_name> --tables
    ```
 
-For more information on usage and options, refer to the [SQLMap documentation](https://github.com/sqlmapproject/sqlmap/wiki).
+For more information on usage and options, refer to the [SQLMap documentation](https://github.com/sqlmapproject/sqlmap/wiki)
